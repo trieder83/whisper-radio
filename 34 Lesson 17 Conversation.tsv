@@ -1,0 +1,6 @@
+start	end	text
+0	4000	Excuse me, how can I get from here to Jatujak?
+4000	8000	You can take the train or take the bus.
+8000	10000	I want to take the train.
+10000	16000	You take the train to Siam Station and you have to go to Mochit Station.
+16000	17000	Thank you.
